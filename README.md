@@ -23,7 +23,7 @@
 
 
 * Co-Centre:
- * Centre the Circles.
+  * Centre the Circles.
 ![](image4.png)
 
 * Reset:

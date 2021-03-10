@@ -13,12 +13,12 @@
 
 ## Buttons
 * Create:
- * Generates the circles. 
+  * Generates the circles. 
 ![](image2.png)
 
 
 * Sort:
- * Sort circles according to size.
+  * Sort circles according to size.
 ![](image3.png)
 
 * Co-Centre:
@@ -26,7 +26,7 @@
 ![](image4.png)
 
 * Reset:
- * Delete all the Circles.
+  * Delete all the Circles.
 ![](image5.png)
 
 ## Running Program

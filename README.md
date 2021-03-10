@@ -2,6 +2,7 @@
 
 > Create, sort and recentre colored circles.
 
+![](image1.png)
 ## Fileds
 * Number of Circles:
   * Entre the number of circles you want to delete.
@@ -10,6 +11,7 @@
 * Radius of Biggest Circle:
   * Entre maximum radius.
 
+## Buttons
 ![](image1.png)
  
 ![](image2.png)

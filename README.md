@@ -36,12 +36,12 @@ OS X & Linux terminal:
 
 ```sh
 javac *.java
-java ShapeViewer
+java MainPanelTester
 ```
 
 Windows cmd:
 
 ```sh
-javac Circle.java drawCircles.java drawCircleTester.java Point.java
-java ShapeViewer
+javac Circle.java ColorCircle.java DrawPanel.java MainPanel.java MainPanelTester.java
+java MainPanelTester
 ```
